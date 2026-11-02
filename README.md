@@ -2,6 +2,15 @@
 
 A Flutter/Dart mobile project for browsing and creating recipes, filtering by nutritional values and dietary preferences, and saving favorites.
 
+## Project overview
+
+**Problem:** Recipe browsing becomes more useful when users can narrow choices by nutritional values and dietary preferences and return to saved favorites.
+
+**Approach:** Build Flutter screens around a recipe model, Firebase account and database services, and Hive-backed local state.
+
+**Result:** A coursework prototype with search, recipe creation and favorites, documented by the original demonstration recording. Its external backend and legacy toolchain remain setup requirements.
+
+
 ## Preview
 
 - [Watch the original demo recording](submission/FoodGenius%20Screenrecording.mp4)
@@ -55,3 +64,7 @@ The Dart package is named `foodgenius`; its internal package imports use the sam
 ## Status
 
 A coursework prototype preserved as a portfolio project. The original demo shows its historical behavior; current Firebase availability and current-device compatibility have not been revalidated.
+
+## Feedback and contributions
+
+For a bug report, open a repository issue with steps to reproduce, expected and actual behavior, and your browser or device details. Discuss substantial changes in an issue before opening a pull request. Keep changes focused and describe how you checked them.
