@@ -6,7 +6,7 @@ import 'package:firebase_storage/firebase_storage.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:io';
 import 'package:form_field_validator/form_field_validator.dart';
-import 'package:ue1_basisprojekt/screens/recipe.dart';
+import 'package:foodgenius/screens/recipe.dart';
 
 class create extends StatefulWidget {
   const create({Key key}) : super(key: key);

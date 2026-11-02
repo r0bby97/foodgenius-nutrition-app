@@ -1,8 +1,8 @@
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
-import 'package:ue1_basisprojekt/screens/home.dart';
-import 'package:ue1_basisprojekt/screens/searchResult.dart';
+import 'package:foodgenius/screens/home.dart';
+import 'package:foodgenius/screens/searchResult.dart';
 
 class search extends StatefulWidget {
   const search({Key key}) : super(key: key);

@@ -1,5 +1,5 @@
-name: ue1_basisprojekt
-description: A list of Game of Thrones Characters
+name: foodgenius
+description: A Flutter app for recipe discovery, nutrition filters and favorites.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.

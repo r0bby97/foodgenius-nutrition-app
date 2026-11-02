@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:ue1_basisprojekt/db/character.dart';
-import 'package:ue1_basisprojekt/db/database.dart';
-import 'package:ue1_basisprojekt/networking/api.dart';
-import 'package:ue1_basisprojekt/screens/character_detail_screen.dart';
+import 'package:foodgenius/db/character.dart';
+import 'package:foodgenius/db/database.dart';
+import 'package:foodgenius/networking/api.dart';
+import 'package:foodgenius/screens/character_detail_screen.dart';
 
 class CharactersListScreen extends StatefulWidget {
   @override

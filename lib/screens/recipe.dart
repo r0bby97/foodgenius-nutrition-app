@@ -2,10 +2,10 @@ import 'dart:async';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
-import 'package:ue1_basisprojekt/screens/allCreatedRecipes.dart';
-import 'package:ue1_basisprojekt/screens/home.dart';
-import 'package:ue1_basisprojekt/screens/ListOfFavorites.dart';
-import 'package:ue1_basisprojekt/screens/searchResult.dart';
+import 'package:foodgenius/screens/allCreatedRecipes.dart';
+import 'package:foodgenius/screens/home.dart';
+import 'package:foodgenius/screens/ListOfFavorites.dart';
+import 'package:foodgenius/screens/searchResult.dart';
 
 class recipe extends StatefulWidget {
   recipe({Key key}) : super(key: key);

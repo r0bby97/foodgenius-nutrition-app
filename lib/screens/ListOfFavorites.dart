@@ -3,8 +3,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
-import 'package:ue1_basisprojekt/screens/home.dart';
-import 'package:ue1_basisprojekt/screens/recipe.dart';
+import 'package:foodgenius/screens/home.dart';
+import 'package:foodgenius/screens/recipe.dart';
 
 class favorite extends StatefulWidget {
   const favorite({Key key}) : super(key: key);

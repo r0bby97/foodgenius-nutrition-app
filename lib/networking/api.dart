@@ -2,9 +2,9 @@
 import 'dart:async';
 import 'dart:convert';
 import 'package:hive/hive.dart';
-import 'package:ue1_basisprojekt/db/character.dart';
+import 'package:foodgenius/db/character.dart';
 import 'package:http/http.dart' as http;
-import 'package:ue1_basisprojekt/db/database.dart';
+import 'package:foodgenius/db/database.dart';
 
 class API {
   // Note: the documentation for the API can be found here: https://anapioficeandfire.com/Documentation

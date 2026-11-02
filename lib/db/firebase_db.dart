@@ -1,6 +1,6 @@
 import 'package:firebase_database/firebase_database.dart';
-import 'package:ue1_basisprojekt/db/recipes.dart';
-import 'package:ue1_basisprojekt/screens/recipe.dart';
+import 'package:foodgenius/db/recipes.dart';
+import 'package:foodgenius/screens/recipe.dart';
 import 'recipes.dart';
 
 final databaseReference = FirebaseDatabase.instance.reference();

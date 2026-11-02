@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
-import 'package:ue1_basisprojekt/db/authentication.dart';
+import 'package:foodgenius/db/authentication.dart';
 import 'package:provider/provider.dart';
-import 'package:ue1_basisprojekt/screens/signIn.dart';
-import 'package:ue1_basisprojekt/screens/home.dart';
+import 'package:foodgenius/screens/signIn.dart';
+import 'package:foodgenius/screens/home.dart';
 
 import '../main.dart';
 

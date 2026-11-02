@@ -4,17 +4,17 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:ue1_basisprojekt/db/authentication.dart';
-import 'package:ue1_basisprojekt/screens/allCreatedRecipes.dart';
-import 'package:ue1_basisprojekt/screens/create.dart';
-import 'package:ue1_basisprojekt/screens/profilePage.dart';
-import 'package:ue1_basisprojekt/screens/recipe.dart';
-import 'package:ue1_basisprojekt/screens/search.dart';
+import 'package:foodgenius/db/authentication.dart';
+import 'package:foodgenius/screens/allCreatedRecipes.dart';
+import 'package:foodgenius/screens/create.dart';
+import 'package:foodgenius/screens/profilePage.dart';
+import 'package:foodgenius/screens/recipe.dart';
+import 'package:foodgenius/screens/search.dart';
 import 'package:provider/provider.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:hive/hive.dart';
-import 'package:ue1_basisprojekt/screens/ListOfFavorites.dart';
-import 'package:ue1_basisprojekt/screens/signIn.dart';
+import 'package:foodgenius/screens/ListOfFavorites.dart';
+import 'package:foodgenius/screens/signIn.dart';
 import 'package:auto_size_text/auto_size_text.dart';
 
 class homepage extends StatefulWidget {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ue1_basisprojekt/db/character.dart';
+import 'package:foodgenius/db/character.dart';
 
 class CharacterDetailScreen extends StatelessWidget {
   final Character character;

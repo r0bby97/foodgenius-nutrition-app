@@ -3,8 +3,8 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
-import 'package:ue1_basisprojekt/db/authentication.dart';
-import 'package:ue1_basisprojekt/screens/signUp.dart';
+import 'package:foodgenius/db/authentication.dart';
+import 'package:foodgenius/screens/signUp.dart';
 import 'package:provider/provider.dart';
 
 class login extends StatefulWidget {
